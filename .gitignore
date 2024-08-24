@@ -1,0 +1,14 @@
+*.log
+*.sty
+*.bst
+*.aux
+*.bbl
+*.synctex.gz
+*.blg
+*.avi
+*.mov
+*.pyc
+.DS_Store
+.idea/
+venv/
+venv27/
